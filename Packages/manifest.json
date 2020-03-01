@@ -1,5 +1,7 @@
 {
   "dependencies": {
+    "com.neuecc.unirx": "https://github.com/starikcetin/UniRx.git#7.1.0",
+    "com.svermeulen.extenject": "https://github.com/starikcetin/Extenject.git#9.1.0",
     "com.unity.ide.rider": "1.1.4",
     "com.unity.ide.vscode": "1.1.4",
     "com.unity.test-framework": "1.1.11",
@@ -35,5 +37,15 @@
     "com.unity.modules.vr": "1.0.0",
     "com.unity.modules.wind": "1.0.0",
     "com.unity.modules.xr": "1.0.0"
+  },
+  "lock": {
+    "com.neuecc.unirx": {
+      "revision": "7.1.0",
+      "hash": "f93af89f2aafeccfc7aff9dee2cecc6d60ede06b"
+    },
+    "com.svermeulen.extenject": {
+      "revision": "9.1.0",
+      "hash": "8261b211687c43c40203c3e7dcdf9e0edfaf17a6"
+    }
   }
 }
