@@ -4,7 +4,7 @@ Simple handling of Photon Raise Event with UniRx.
 
 ## Requirements
 
-- Unity2019.3.3f1
+- Unity2019.3.4f1
 - [PUN2](https://assetstore.unity.com/packages/tools/network/pun-2-free-119922) 2.16
 - [PUN2Rx](https://github.com/nekomimi-daimao/PUN2Rx/releases/tag/1.0.0) 1.0.0
 
